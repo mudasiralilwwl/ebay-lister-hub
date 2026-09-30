@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.4",
   "name": "eBay Lister Hub",
-  "releaseNotes": "Fixed eBay Seller Hub multi-variation price syntax, added 65-character auto-clamp for item specifics, and improved bath toy categories.",
+  "releaseNotes": "Fix Master Cover Image & gallery photo hosting: Smart Amazon CDN auto-resolution (e.g. 818GRnbXboL), permanent Cloudflare/FreeImage/Catbox public hosting, direct URL paste input, and strict eBay PicURL HTTP formatting.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
