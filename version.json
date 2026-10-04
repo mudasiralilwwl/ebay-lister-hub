@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.8",
   "name": "eBay Lister Hub",
-  "releaseNotes": "Fix Master Cover Image & gallery photo hosting: Smart Amazon CDN auto-resolution (e.g. 818GRnbXboL), permanent Cloudflare/FreeImage/Catbox public hosting, direct URL paste input, and strict eBay PicURL HTTP formatting.",
+  "releaseNotes": "Added floating animated seasonal background motifs (Easter bunnies/eggs, Christmas Santa/trees, Halloween pumpkins/ghosts, Default sparkles) to header and store banners. Maintained 100% mobile responsiveness and safe CSS animations for eBay.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
