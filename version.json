@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "name": "eBay Lister Hub",
-  "releaseNotes": "Added floating animated seasonal background motifs (Easter bunnies/eggs, Christmas Santa/trees, Halloween pumpkins/ghosts, Default sparkles) to header and store banners. Maintained 100% mobile responsiveness and safe CSS animations for eBay.",
+  "releaseNotes": "Added full eBay Multi-Variation (MSKU) & Ended Listing extraction support. Automatically extracts dimensions (Color, Size, Pack), variant images, pricing, and prevents redirect to similar sponsored items.",
   "downloadUrl": "https://drive.google.com/drive/folders/12yvvhPrZHH9GTzxUe98YQFEVSnwD-QsU"
 }
